@@ -5,4 +5,4 @@ Simple Data-Itensive Real Time( DIRT ) application using NodeJS and Websocket(So
 - install dependencies using NPM : `npm install`
 
 ## Run
-- simply type in `npm server.js` in console, and open in browser : `localhost:3000`, good to go.
+- simply type in `node server.js` in console, and open in browser : `localhost:3000`, good to go.
